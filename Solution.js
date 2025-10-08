@@ -20,5 +20,6 @@ var maxDistance = function (words) {
         ++front;
         --back;
     }
+
     return maxDistanceBetweenUnequalWords;
 };
